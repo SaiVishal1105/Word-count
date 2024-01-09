@@ -1,6 +1,6 @@
 # Word-count
 NAME: SAI VISHAL D<BR>
-REF.NO: 23013576
+REG.NO: 212223230180
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
